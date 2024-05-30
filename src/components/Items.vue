@@ -130,7 +130,7 @@ export default {
     chunkedItems() {
       let items = this.items;
       if (this.sort !== 0) {
-        items = items.slice(0).sort((a,b) => STAC.getDisplayTitle(a).localeCompare(STAC.getDisplayTitle(b), this.uiLanguage));
+        // items = items.slice(0).sort((a,b) => STAC.getDisplayTitle(a).localeCompare(STAC.getDisplayTitle(b), this.uiLanguage));
         if (this.sort === -1) {
           items = items.reverse();
         }
