@@ -51,7 +51,7 @@
     "leaflet": "^1.8.0",
     "node-polyfill-webpack-plugin": "^2.0.0",
     "remove-markdown": "^0.5.0",
-    "stac-layer": "git+ssh://git@github.com:keigo-hashimoto/stac-layer.git#bugfix-image-rotation",
+    "stac-layer": "git+ssh://git@github.com:i-qps/stac-layer.git#bugfix-image-rotation",
     "stac-node-validator": "^2.0.0-beta.7",
     "urijs": "^1.19.11",
     "v-clipboard": "^3.0.0-next.1",
